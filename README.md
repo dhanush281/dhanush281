@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush281&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush281" /> </p>
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **https://t.me/solocaptainblaze**
 
