@@ -1,5 +1,20 @@
-<h1>Hi 👋, I'm Dhanush</h1>
-<p>A passionate Android Enthusiast</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhanush;" />
+</h1>
+
+<h3 align="center">A passionate Android Enthusiast </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🌱 I’m currently learning **Semiconductor, Sql, AWS**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/dhanushvozj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/dhanushvozj" /></a></p><br><br>
 <h2>🚀 Languages and Tools I Use</h2>
