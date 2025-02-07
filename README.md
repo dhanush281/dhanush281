@@ -33,8 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush281&" alt="dhanush281" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush281&show_icons=true&locale=en&layout=compact" alt="dhanush281" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanush281" alt="dhanush281" /></a></p>
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh303/AkashSingh3031/blob/main/marquee.svg"/> 
-
-## Watch snake eating my github contributions 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh303/AkashSingh3031/blob/main/marquee.svg"/>  
  
 ![snake_gif](https://github.com/dhanush281/dhanush281/blob/output/github-snake-dark.svg)
+</p>
