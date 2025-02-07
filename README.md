@@ -16,10 +16,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush281&" alt="dhanush281" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush281&show_icons=true&locale=en&layout=compact" alt="dhanush281" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanush281" alt="dhanush281" /></a></p>
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/dhanushvozj">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+<h3 align="left">Support:</h3>
+<p><a href="https://buymeacoffee.com/dhanushvozj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/bijoyv9i" /></a></p><br><br>
 </a>
 </p>
 </p>
