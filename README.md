@@ -25,3 +25,21 @@
 <img src="https://raw.githubusercontent.com/dhanush281/dhanush281/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2><u>KNOWN TECHSTACKS:</u></h2>
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+![excel](https://img.shields.io/badge/excel-000000?style=for-the-badge&logo=excel&logoColor=yellow)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FCFF00)
+![Android](https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=34A853)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05032)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26)
+![Canva](https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
+
+<h2><u>CONTACT:</u></h2>
+
+<a href="https://t.me/solocaptainblaze"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
+<a href="https://dhanush3699@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+
+---
