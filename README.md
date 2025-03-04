@@ -4,6 +4,12 @@
 
 <h3 align="center">A passionate Android Enthusiast </h3>
 
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW50MGxlNmtyZHZzeG96YXV0NWQ0MHFnNHNjdWw3Y2MyMnplMGhrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif"  />
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush281w&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush281" /> </p>
 
 <h3 align="left">Support:</h3>
