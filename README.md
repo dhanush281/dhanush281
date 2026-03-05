@@ -26,14 +26,6 @@ Passionate about AOSP, performance tuning and custom Android ROM development ⚡
 
 ---
 
-### 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush281&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
