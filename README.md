@@ -14,16 +14,6 @@ Passionate about AOSP, performance tuning and custom Android ROM development ⚡
 - 📊 Currently learning **Data Analytics**
 - 🚀 Love experimenting with Android performance
 
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,android,python,mysql" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
