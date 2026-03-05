@@ -1,39 +1,74 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhanush;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Dhanush</h1>
+<h3 align="center">Android ROM Developer | Tech Enthusiast</h3>
 
-<h3 align="center">A passionate Android Enthusiast </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush281w&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush281" /> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dhanushvozj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/dhanushvozj" /></a></p><br><br>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dhanush281/dhanush281/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2><u>KNOWN TECHSTACKS:</u></h2>
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/></a>
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FCFF00)
-![Android](https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=34A853)
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05032)
-![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26)
-![Canva](https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
-
-<h2><u>CONTACT:</u></h2>
-
-<a href="https://t.me/solocaptainblaze"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
-<a href="https://dhanush3699@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+<p align="center">
+Building custom Android experiences and optimizing performance ⚡
+</p>
 
 ---
+
+### 👨‍💻 About Me
+
+- 🔭 Working on **Custom Android ROMs**
+- ⚙️ Interested in **AOSP, Kernel & Performance Tuning**
+- 📊 Learning **Data Analytics**
+- 💡 Passionate about **Android System Development**
+- 🚀 Always exploring new tech
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,android,java,python,mysql"/>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhanush281&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush281&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush281&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush281&theme=tokyo-night"/>
+
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+<a href="https://buymeacoffee.com/dhanushvozj">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=YOUR_LINK&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"/>
+</a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> "Optimizing Android performance one commit at a time."
