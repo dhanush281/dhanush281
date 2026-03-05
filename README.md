@@ -10,7 +10,7 @@ Passionate about AOSP, performance tuning and custom Android ROM development ⚡
 ### 👨‍💻 About Me
 
 - 🔭 Working on **Custom Android ROM Development**
-- ⚙️ Interested in **AOSP & Kernel Optimization**
+- ⚙️ Interested in **AOSP**
 - 📊 Currently learning **Data Analytics**
 - 🚀 Love experimenting with Android performance
 
