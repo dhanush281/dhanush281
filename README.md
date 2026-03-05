@@ -18,9 +18,9 @@ Passionate about AOSP, performance tuning and custom Android ROM development ⚡
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanush281&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanush281 & show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush281&theme=tokyonight"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush281 & theme=tokyonight"/>
 
 </p>
 
