@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_2t/20245.jpg" width="100%" alt="Dhanush Banner"/>
+</p>
+
+<p align="center">
+  <a href="https://t.me/solocaptainblaze"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhanush;" />
 </h1>
