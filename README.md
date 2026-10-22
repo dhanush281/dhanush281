@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_2t/20245.jpg" width="100%" alt="Dhanush Banner"/>
+  <img src="i.pinimg.com/1200x/c8/60/c4/c860c45041ab561ab9b3e0f64a639f08.jpg" width="100%" alt="Dhanush Banner"/>
 </p>
 
 <p align="center">
