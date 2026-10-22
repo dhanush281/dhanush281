@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="i.pinimg.com/1200x/c8/60/c4/c860c45041ab561ab9b3e0f64a639f08.jpg" width="100%" alt="Dhanush Banner"/>
+  <img src="https://i.pinimg.com/736x/0c/59/ca/0c59ca1ddf4b31f315bfeeb6ba68e88b.jpg" width="100%" alt="Dhanush Banner"/>
 </p>
 
 <p align="center">
